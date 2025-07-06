@@ -3,7 +3,7 @@
   <img src="https://placehold.co/800x200?text=BrainBridge" alt="BrainBridge Banner"/>
 </p>
 
-<h1 align="center">🧠 BrainBridge</h1>
+<h1 align="center text-green">🧠 BrainBridge</h1>
 
 <p align="center">
   <b>Empowering learners with AI-driven doubt solving, curated courses, and a collaborative team experience.</b>
