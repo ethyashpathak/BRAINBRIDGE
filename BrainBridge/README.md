@@ -152,5 +152,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <i>BrainBridge — Empowering learning, one bridge at a time.</i>
+  <i>BrainBridge — Empowering learning, one bridge at a time</i>
 </p>
