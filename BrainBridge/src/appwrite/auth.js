@@ -35,15 +35,12 @@ export class AuthService{
             throw error;
         }
     }
-    async getCurrentUser(){
+    async getCurrentUser(){       //This function always returned null, no matter what,but finally it worked,by removing the return null from the function
         try {
-            await this.account.get();
+            return await this.account.get();
         } catch (error) {
-            throw error;
-            
+            return null;
         }
-
-        return null;  //this was done to handle the case when no user is found,like uh were not even able to reach out to the service..and the error which can occur is already handled in the try catch section
     }
     async logout(){
         try {
