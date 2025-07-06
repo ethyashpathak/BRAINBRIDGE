@@ -9,7 +9,7 @@ import { Route,Routes } from 'react-router-dom'
 import Home from './components/Home/home'
 import Course from './components/courses/course'
 import OurTeam from './components/OurTeam/OurTeam'
-
+import MyCourses from './components/courses/mycourses'
 
 function App() {
   
@@ -23,7 +23,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/auth" element={<AuthForm />} />
           <Route path="/OurTeam" element={<OurTeam />} />
-          
+          <Route path="/my-courses" element={<MyCourses />} />
           <Route path="/courses" element={<Course />} />
         </Routes>
       </main>
