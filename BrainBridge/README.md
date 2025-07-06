@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://placehold.co/400x250?text=Home+Page" alt="Home Page Screenshot" style="margin: 10px;"/>
-  <img src="https://placehold.co/400x250?text=AI+Doubt+Solver" alt="AI Doubt Solver Screenshot" style="margin: 10px;"/>
+ 
   <img src="https://placehold.co/400x250?text=Courses+Carousel" alt="Courses Carousel Screenshot" style="margin: 10px;"/>
 </p>
 
