@@ -6,11 +6,11 @@
 <h1 align="center">🧠 BrainBridge</h1>
 
 <p align="center">
-  <b>Empowering learners with AI-driven doubt solving, curated courses, and a collaborative team experience.</b>
+  <b>Empowering learners with Passion, curated courses, and a collaborative team experience.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/BrainBridge"><img src="https://img.shields.io/github/license/yourusername/BrainBridge?style=flat-square" alt="License"></a>
+  <a href="https://github.com/ethyashpathak/BrainBridge"><img src="https://img.shields.io/github/license/yourusername/BrainBridge?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/React-18-blue?style=flat-square" alt="React">
   <img src="https://img.shields.io/badge/Vite-4.0-purple?style=flat-square" alt="Vite">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
@@ -51,7 +51,7 @@
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots(coming soon)
 
 <p align="center">
   <img src="https://placehold.co/400x250?text=Home+Page" alt="Home Page Screenshot" style="margin: 10px;"/>
@@ -91,7 +91,7 @@ BrainBridge/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/BrainBridge.git
+git clone https://github.com/ethyashpathak/BrainBridge.git
 cd BrainBridge
 npm install # or yarn install
 ```

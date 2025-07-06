@@ -9,7 +9,7 @@ import { Route,Routes } from 'react-router-dom'
 import Home from './components/Home/home'
 import Course from './components/courses/course'
 import OurTeam from './components/OurTeam/OurTeam'
-
+import AiDoubtSolver from './components/AI_doubt_solver/aiDoubt'
 
 function App() {
   
